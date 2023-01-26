@@ -64,6 +64,7 @@ class _Slider2ScreenState extends State<Slider2Screen> {
               //Ajustamos las proporciones para que se adapte al valor del slider
               fit: BoxFit.contain,
               width: _sliderValue,
+              
             )
           ],
         ),
